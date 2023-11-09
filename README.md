@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="100%" alt=" Banner">
+  <img src="./my cover.gif" width="100%" alt=" Banner">
 </div>
 
 <h3>ABOUT ME</h3>  
