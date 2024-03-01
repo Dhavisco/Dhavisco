@@ -10,7 +10,7 @@ I'm a competent software developer with a strong desire to create efficient, use
 
 <div align="left">
   
-  [![Profile views ](https://visitcount.itsvg.in/api?id=dhavisco&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dhavisco&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
   
   <a href="https://twitter.com/OlaniyiDavidAy1" target="_blank"><img src="https://img.shields.io/twitter/follow/Davisco?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
   <a href="https://www.frontendmentor.io/profile/Dhavisco" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Dhavisco-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
