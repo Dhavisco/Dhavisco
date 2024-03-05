@@ -35,9 +35,9 @@ I spend my free time Reading Books and developing new skills. :wink:
 <br/><br/>
 ## How about Some Bullet Points? :heavy_check_mark:
 
-- I'm currently working on [MovieBox ](https://github.com/Dhavisco/MovieBox), and [Portfolio](https://daviscoresume.netlify.app).
+- I'm currently working on [MovieBox ](https://github.com/Dhavisco/MovieBox), and [Portfolio](https://davisco.vercel.app).
 - I'm currently learning [React, REDUX, TypeScript](https://reactjs.org/).
-- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhavisco/), [Portfolio](https://daviscoresume.netlify.app)**
+- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhavisco/), [Portfolio](https://davisco.vercel.app)**
  <br/>
   
   <table>
